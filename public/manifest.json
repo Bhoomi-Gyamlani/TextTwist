@@ -1,10 +1,11 @@
 {
   "short_name": "TextTwist",
   "name": "TextTwist App",
+  "id": "/texttwist",
   "icons": [
     {
       "src": "favicon.ico", 
-      "sizes": "64x64 36x36 32x32  16x16",
+      "sizes": "64x64",
       "type": "image/x-icon"
     },
     {
