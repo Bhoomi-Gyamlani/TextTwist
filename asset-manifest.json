@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextTwist/static/css/main.f855e6bc.css",
+    "main.js": "/TextTwist/static/js/main.0c35b134.js",
+    "static/js/453.49528de3.chunk.js": "/TextTwist/static/js/453.49528de3.chunk.js",
+    "index.html": "/TextTwist/index.html",
+    "main.f855e6bc.css.map": "/TextTwist/static/css/main.f855e6bc.css.map",
+    "main.0c35b134.js.map": "/TextTwist/static/js/main.0c35b134.js.map",
+    "453.49528de3.chunk.js.map": "/TextTwist/static/js/453.49528de3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0c35b134.js"
+  ]
+}
